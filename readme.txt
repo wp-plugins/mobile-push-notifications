@@ -14,21 +14,16 @@ A plugins that uses the ACS Notification push API to send push notification to i
 == Description ==
 Push Notification is a WordPress plugin that send Push message to ACS (Appcelerator Cloud Service) API which send a push to iPhone and Android Phones. ACS uses APNs (Apple Push Notification Service) and Google Cloud Messaging (GCM) service to send push notification to iOS devices and android devices. The notification is send from the WordPress when “new post” (page, post and any custom posts) is created. You MUST have an ACS subscription to use this plugin. **You have to provide user name, password and application key.**
 
-
 **More features are coming like**
-
-1.  Send push notification to particular channel or all channels.
-
+*	Send push notification to particular channel or all channels.
 
 **After the installation process, there is setting page** you need to fill up ACS application user name, password and pay key.  Please do not fill your primary login information.**
 
 **Setting page**
-
 *	Fill up apps key (secret key of apps)
 *	Fill up username (apps username)
 *	Fill up Password (apps password)
 *	Fill up Push channel (ie. demo_alert)
-
 
 
 == Installation ==
@@ -52,7 +47,6 @@ e.g.
 == Frequently Asked Questions ==
 = What is a Push Notification? =
 Push Notifications allow you to send messages directly to the people who have installed your mobile app, even when your app is closed.
-
 
 == Screenshots ==
 1. Settings Screen
