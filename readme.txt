@@ -24,10 +24,10 @@ Push Notification is a WordPress plugin that send Push message to ACS (Appcelera
 
 **Setting page**
 
-*Fill up apps key (secret key of apps)
-*Fill up username (apps username)
-*Fill up Password (apps password)
-*Fill up Push channel (ie. demo_alert)
+*	Fill up apps key (secret key of apps)
+*	Fill up username (apps username)
+*	Fill up Password (apps password)
+*	Fill up Push channel (ie. demo_alert)
 
 
 
