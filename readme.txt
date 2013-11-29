@@ -24,10 +24,10 @@ More features are coming like:
 
 Setting page:
 
-	* Fill up apps key (secret key of apps)
-	* Fill up username (apps username)
-	* Fill up Password (apps password)
-	* Fill up Push channel (ie. demo_alert)
+	*Fill up apps key (secret key of apps)
+	*Fill up username (apps username)
+	*Fill up Password (apps password)
+	*Fill up Push channel (ie. demo_alert)
 
 
 
