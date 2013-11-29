@@ -22,13 +22,9 @@ Push Notification is a WordPress plugin that send Push message to ACS (Appcelera
 **After the installation process, there is setting page** you need to fill up ACS application user name, password and pay key.  Please do not fill your primary login information.**
 
 **Setting page**
-
 	*Fill up apps key (secret key of apps)
-
 	*Fill up username (apps username)
-
 	*Fill up Password (apps password)
-
 	*Fill up Push channel (ie. demo_alert)
 
 
@@ -45,11 +41,8 @@ e.g.
 3. Manage your plugins settings by ACS notification push settings 
 
 	* Fill up apps key (secret key of apps)
-
 	* Fill up username (apps username)
-
 	* Fill up Password (apps password)
-
 	* Fill up Push channel (ie. demo_alert)
 
 5. Select your post type from select post type select option, which notify your apps when post is published. 
